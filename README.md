@@ -19,5 +19,5 @@ The goal is to have a platform that contains all the students information that w
 * React.JS
 * MongoDB
 
-### URL 
+ 
 
